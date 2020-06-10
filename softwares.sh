@@ -38,3 +38,9 @@ clear
 echo 'installing vim'
 sudo apt install vim -y
 clear
+
+
+#Install Make
+echo 'installing Make'
+sudo apt-get install make
+clear
