@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # Install Dependencies
 echo 'installing Dependencies' 
 sudo apt-get install \

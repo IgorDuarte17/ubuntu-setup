@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # Install VS Code
 
 echo 'installing VS Code'

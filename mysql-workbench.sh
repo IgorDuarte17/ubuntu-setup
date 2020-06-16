@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # Install MySQL Workbench
 
 echo 'installing MySQL Workbench' 

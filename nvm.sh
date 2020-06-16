@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # Install NVM
 
 echo 'installing NVM' 
