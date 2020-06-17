@@ -11,6 +11,7 @@ sudo apt-get purge openjdk-\*
 echo 'installing Java JRE' 
 
 # Download Java JRE Server
+# Download Link: https://www.java.com/pt_BR/download/linux_manual.jsp
 cd ~/Downloads
 sudo tar -zxf jre-8u251-linux-x64.tar.gz -C /opt
 
