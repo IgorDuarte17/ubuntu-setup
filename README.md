@@ -4,16 +4,19 @@
 
 ### About the scripts
 - Softwares
-  - Chrome
   - Spotify
   - Postman
   - Slack
   - Discord
-  - vim
+- LIbs
+  - Vim
   - Make
+  - Net-Tools
+- Chrome and Extensions
 - Terminal (ZSH and Oh My Zsh)
 - VS Code and Extensions
 - MySQL Workbench
+- Redis Desktop Manager
 - Java
 - Git
 - Docker and Docker Compose
