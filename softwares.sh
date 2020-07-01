@@ -34,15 +34,3 @@ echo 'installing Discord'
 wget -O discord-0.0.1.deb https://discordapp.com/api/download?platform=linux&format=deb
 sudo dpkg -i discord-0.0.1.deb
 clear
-
-
-# Install vim
-echo 'installing vim'
-sudo apt install vim -y
-clear
-
-
-#Install Make
-echo 'installing Make'
-sudo apt-get install make
-clear
