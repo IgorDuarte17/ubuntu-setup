@@ -27,7 +27,7 @@ cat >> ~/.zshrc <<EOF
 
 # Commands Alias
 alias cls="clear"
-alias cdp="cd projects"
+alias cdp="cd $HOME/projects"
 EOF
 
 
