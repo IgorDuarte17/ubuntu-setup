@@ -8,7 +8,7 @@
   - Postman
   - Slack
   - Discord
-- LIbs
+- System Tools
   - Vim
   - Make
   - Net-Tools
