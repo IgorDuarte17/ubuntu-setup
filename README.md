@@ -14,6 +14,9 @@
   - Net-Tools
 - Chrome and Extensions
 - Terminal (ZSH and Oh My Zsh)
+   - Themes
+   - Plugins
+   - Alias
 - VS Code and Extensions
 - MySQL Workbench
 - Redis Desktop Manager
