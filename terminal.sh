@@ -48,5 +48,5 @@ source ~/.zshrc
 # Reebot System
 
 # Check ZSH
-#P lease run echo $SHELL from a new terminal to confirm.
+#Please run echo $SHELL from a new terminal to confirm.
 # Expected result: /usr/bin/zsh or similar
