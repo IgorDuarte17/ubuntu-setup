@@ -31,10 +31,15 @@ alias cdp="cd projects"
 EOF
 
 
-# Install zsh-Autosuggestions
-echo 'installing autosuggestions' 
-git clone https://github.com/zsh-users/zsh-autosuggestions ~/.zsh/zsh-autosuggestions
+# Install Plugins
+echo 'installing zsh-autosuggestions' 
+git clone https://github.com/zsh-users/zsh-autosuggestions.git ~/.zsh/zsh-autosuggestions
 echo "source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh" >> ~/.zshrc
+source ~/.zshrc
+
+echo 'installing zsh-syntax-highlighting' 
+git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ~/.zsh/zsh-syntax-highlighting
+echo "source ~/.zsh/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh" >> ~/.zshrc
 source ~/.zshrc
 
 
