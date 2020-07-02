@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Install Libs
+# Install System Tools
 
 
 # Install vim
