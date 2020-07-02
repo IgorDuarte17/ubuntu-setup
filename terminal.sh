@@ -13,7 +13,22 @@ chsh -s /bin/zsh
 
 # Configure Theme
 echo 'Configuring Theme'
-sed -i 's/.*ZSH_THEME=.*/ZSH_THEME="avit"/g' ~/.zshrc
+echo "enter the name of the theme you want to use"
+echo "For example, mine will be \"avit\""
+read theme_name
+sed -i 's/.*ZSH_THEME=.*/ZSH_THEME='$theme_name'/g' ~/.zshrc
+echo "Theme configured, please after finish installation, restart the terminal"
+
+
+# Configure Alias
+echo 'Configuring Alias'
+cat >> ~/.zshrc <<EOF
+# space
+
+# Commands Alias
+alias cls="clear"
+alias cdp="cd projects"
+EOF
 
 
 # Install zsh-Autosuggestions
@@ -23,13 +38,10 @@ echo "source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh" >> ~/.zshrc
 source ~/.zshrc
 
 
-# Config ZSH - Manual
 # vim ~/.zshrc
-# Commands Alias
-# alias -g cls="clear"
-
 
 # Reebot System
+
 # Check ZSH
 #P lease run echo $SHELL from a new terminal to confirm.
 # Expected result: /usr/bin/zsh or similar
