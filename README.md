@@ -3,27 +3,36 @@
 > Scripts of development ambient setup for ubuntu
 
 ### About the scripts
-- Softwares
-  - Spotify
-  - Postman
-  - Slack
+- Communication/
   - Discord
-- System Tools
-  - Vim
-  - Make
-  - Net-Tools
-- Chrome and Extensions
-- Terminal (ZSH and Oh My Zsh)
-   - Themes
-   - Plugins
-   - Alias
-- VS Code and Extensions
-- MySQL Workbench
-- Redis Desktop Manager
-- Java
-- Git
-- Docker and Docker Compose
-- NVM
+  - Slack
+
+- Development/
+  - Docker and Docker Compose
+  - Git
+  - MySQL Workbench
+  - NVM
+  - Postman
+  - Redis Desktop Manager
+  - VS Code and Extensions
+
+- Internet/
+  - Chrome and Extensions
+
+- Softwares/
+  - Spotify
+
+- Tools/
+  - Java
+  - System-Tools
+      - Vim
+      - Make
+      - Net-Tools
+  - Terminal (ZSH and Oh My Zsh)  
+      - Themes
+      - Plugins
+      - Alias  
+
 
 > #### Written with Shell script
 ---
