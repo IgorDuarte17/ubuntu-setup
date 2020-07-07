@@ -6,6 +6,7 @@
 - Communication/
   - Discord
   - Slack
+  - Microsoft Teams
 
 - Development/
   - Docker and Docker Compose
