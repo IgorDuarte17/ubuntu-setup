@@ -22,6 +22,7 @@
 
 - Softwares/
   - Spotify
+  - VLC Player
 
 - Tools/
   - Java
