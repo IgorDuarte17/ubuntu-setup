@@ -13,8 +13,12 @@ echo 'installing extensions'
 install_chrome_extension "gighmmpiobklfepjocnamgkkbiglidom" "AdBlock"
 install_chrome_extension "jlmpjdjjbgclbocgajdjefcidcncaied" "Daily 2.0"
 install_chrome_extension "bhlhnicpbhignbdhedgjhgdocnmhomnp" "ColorZilla"
+install_chrome_extension "jabopobgcpjmedljpbcaablpmlmfcogm" "WhatFont"
+install_chrome_extension "aapbdbdomjkkjkaonfhkkikfgjllcleb" "Google Tradutor"
+
 
 # Developer Extensions
 install_chrome_extension "odkdlljoangmamjilkamahebpkgpeacp" "GitHub Dark Theme"
 install_chrome_extension "bcjindcccaagfpapjjmafapmmgkkhgoa" "JSON Formatter"
+install_chrome_extension "bnjjngeaknajbdcgpfkgnonkmififhfo" "Fake Filler"
 install_chrome_extension "nhdogjmejiglipccpnnnanhbledajbpd" "Vue.js devtools"
