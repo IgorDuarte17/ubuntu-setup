@@ -14,11 +14,13 @@
   - MySQL Workbench
   - NVM
   - Postman
+  - Insomnia
   - Redis Desktop Manager
   - VS Code and Extensions
 
 - Internet/
   - Chrome and Extensions
+  - Chorme Update
 
 - Softwares/
   - Spotify
@@ -30,6 +32,7 @@
       - Vim
       - Make
       - Net-Tools
+      - htop
   - Terminal (ZSH and Oh My Zsh)  
       - Themes
       - Plugins
