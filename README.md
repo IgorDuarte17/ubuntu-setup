@@ -26,6 +26,13 @@
   - Spotify
   - VLC Player
 
+- Terminal/
+  - Terminal (ZSH and Oh My Zsh)  
+      - Themes
+      - Plugins
+      - Alias
+  - Terminal Config (.zshrc)
+
 - Tools/
   - Java
   - System-Tools
@@ -33,11 +40,6 @@
       - Make
       - Net-Tools
       - htop
-  - Terminal (ZSH and Oh My Zsh)  
-      - Themes
-      - Plugins
-      - Alias  
-
 
 > #### Written with Shell script
 ---
