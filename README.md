@@ -20,7 +20,7 @@
 
 - Internet/
   - Chrome and Extensions
-  - Chorme Update
+  - Chrome Update
 
 - Softwares/
   - Spotify
