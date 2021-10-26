@@ -34,6 +34,7 @@
   - Terminal Config (.zshrc)
 
 - Tools/
+  - 7zip
   - Java
   - System-Tools
       - Vim
