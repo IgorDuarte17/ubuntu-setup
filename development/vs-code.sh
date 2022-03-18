@@ -20,6 +20,7 @@ code --install-extension felixfbecker.php-intellisense
 code --install-extension neilbrayfield.php-docblocker
 code --install-extension bmewburn.vscode-intelephense-client
 code --install-extension mehedidracula.php-namespace-resolver
+code --install-extension m1guelpf.better-pest
 
 # Laravel
 code --install-extension amiralizadeh9480.laravel-extra-intellisense
@@ -28,6 +29,8 @@ code --install-extension onecentlin.laravel5-snippets
 code --install-extension ryannaddy.laravel-artisan
 code --install-extension codingyu.laravel-goto-view
 code --install-extension stef-k.laravel-goto-controller
+code --install-extension naoray.laravel-goto-components
+code --install-extension onecentlin.laravel-extension-pack
 
 # Tools
 code --install-extension mikestead.dotenv
