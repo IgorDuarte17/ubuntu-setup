@@ -8,10 +8,14 @@
   - Slack
   - Microsoft Teams
 
+- Database/
+  - DBeaver
+  - MongoDB Compass
+  - MySQL Workbench
+
 - Development/
   - Docker and Docker Compose
-  - Git
-  - MySQL Workbench
+  - Git  
   - NVM
   - Postman
   - Insomnia
@@ -46,4 +50,4 @@
 ---
 
 ### Maintainer
-Igor Santos – igors.d@hotmail.com
+Igor Duarte – igors.d@hotmail.com
