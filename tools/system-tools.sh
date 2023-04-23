@@ -25,3 +25,8 @@ clear
 echo 'installing htop'
 sudo apt-get install htop
 clear
+
+#Install Curl
+echo 'installing curl'
+sudo apt  install curl
+clear
