@@ -45,6 +45,7 @@
       - Make
       - Net-Tools
       - htop
+      - curl
 
 > #### Written with Shell script
 ---
