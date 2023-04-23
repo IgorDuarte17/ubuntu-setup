@@ -3,4 +3,5 @@
 # Install MySQL Workbench
 
 echo 'installing MySQL Workbench' 
-sudo apt install mysql-workbench
+sudo snap install mysql-workbench-community
+clear
