@@ -30,3 +30,8 @@ clear
 echo 'installing curl'
 sudo apt  install curl
 clear
+
+#Install xclip
+echo 'installing xclip'
+sudo apt install xclip
+clear
